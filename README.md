@@ -1,2 +1,4 @@
-# lessons_learned
-This is a working directory for lessons learned at Bloc Academy
+# Bloc Academy
+1. HTML
+2. CSS
+3. Fronted Development
